@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82ddb219-d40f-464e-8c22-d7f9da7cad79" name="Default Changelist" comment="" />
+    <list default="true" id="89b6bd08-1414-4768-ab8b-aeb99b54d810" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CalculatorICP" />
   </component>
-  <component name="ProjectId" id="1XrXRy02s3HAywuDIdI99GbgHUT" />
+  <component name="ProjectId" id="1YBIOMFkIY2X5HzOu99TXyRGrWa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,31 +21,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="C:\Users\kiree\Desktop\UMKC\5th Semester\Web-Mobile-Programming_ICP\Web_Programming\ICP_5\CalculatorICP\node_modules\typescript\lib" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="82ddb219-d40f-464e-8c22-d7f9da7cad79" name="Default Changelist" comment="" />
-      <created>1581805183073</created>
+      <changelist id="89b6bd08-1414-4768-ab8b-aeb99b54d810" name="Default Changelist" comment="" />
+      <created>1582409527233</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581805183073</updated>
-      <workItem from="1581805185548" duration="2691000" />
-      <workItem from="1581809297982" duration="1181000" />
-      <workItem from="1582407096890" duration="281000" />
+      <updated>1582409527233</updated>
+      <workItem from="1582409529713" duration="636000" />
+      <workItem from="1582410208067" duration="2267000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="144" y="0" key="SettingsEditor" timestamp="1581805923785">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581805923785" />
   </component>
 </project>
