@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b584a202-4ba2-4884-8d5b-ee1fd40de26b" name="Default Changelist" comment="" />
+    <list default="true" id="c0721c19-c60f-4092-9f8e-ed0e73e130a5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1YV1adcCYoNr3W6ol0C9tabXw2y" />
+  <component name="ProjectId" id="1Yp8V2mf9VXJXUEGua7Ziflmsdp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,25 +25,35 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Users\kiree\Desktop\UMKC\5th Semester\Web-Mobile-Programming_ICP\Web_Programming\ICP_7\Source\LibraryManagementSystem\node_modules\typescript\lib" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b584a202-4ba2-4884-8d5b-ee1fd40de26b" name="Default Changelist" comment="" />
-      <created>1583013011130</created>
+      <changelist id="c0721c19-c60f-4092-9f8e-ed0e73e130a5" name="Default Changelist" comment="" />
+      <created>1583628195969</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583013011130</updated>
-      <workItem from="1583013013617" duration="1970000" />
-      <workItem from="1583015390385" duration="7757000" />
-      <workItem from="1583628141165" duration="23000" />
+      <updated>1583628195969</updated>
+      <workItem from="1583628198401" duration="2347000" />
+      <workItem from="1583631637857" duration="2263000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Source/LibraryManagementSystem/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Notifications" timestamp="1583631797252">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1583631797252" />
   </component>
 </project>
