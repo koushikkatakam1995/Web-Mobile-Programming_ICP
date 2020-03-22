@@ -54,5 +54,6 @@
         android:layout_height="?attr/actionBarSize"
         android:textAlignment="center"
         android:background="?attr/colorPrimary"
-        app:popupTheme="@style/AppTheme.PopupOverlay" />
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        android:gravity="center_horizontal" />
 </android.support.design.widget.CoordinatorLayout>
